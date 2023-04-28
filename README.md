@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SwichieBoi
+- 👀 I’m interested in pure mathematics and ml/ai
+- 🌱 I’m currently learning c
+- 💞️ I’m looking to collaborate on nothing right now, just learning!
+- 📫 How to reach me ...
